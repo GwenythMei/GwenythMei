@@ -1,16 +1,25 @@
-## Hi there 👋
+# Gwenyth Durso
 
-<!--
-**GwenythMei/GwenythMei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Data Analytics | BS Analytics (Supply Chain Management & Logistics)
 
-Here are some ideas to get you started:
+Analytics professional with experience in operations, business analysis, reporting, supply chain optimization, and performance measurement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Enterprise Reporting Workflow Redesign
+Analytics case study redesigning a reporting workflow supporting 2,300+ retail locations through cloud-based reporting architecture and dashboarding.
+
+### Supply Chain Optimization Case Study
+Cost and logistics analysis evaluating supplier selection, transportation strategy, demand growth, and long-term scalability.
+
+## Core Skills
+
+- Business Analysis
+- Supply Chain Analysis
+- Financial Analysis
+- KPI Development
+- Dashboard Design
+- SQL
+- Tableau
+- Power BI
+- BigQuery
