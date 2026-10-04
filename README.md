@@ -2,7 +2,7 @@
 
 MS Data Analytics | BS Analytics (Supply Chain Management & Logistics)
 
-Analytics professional with experience in operations, business analysis, reporting, supply chain optimization, and performance measurement.
+Analytics professional with experience in operations, business analysis, reporting, supply chain optimization, and data-driven decision support.
 
 ## Featured Projects
 
